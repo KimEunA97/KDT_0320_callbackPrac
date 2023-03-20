@@ -1,0 +1,12 @@
+{
+  "name": "kdt_0320_callbackprac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cbf-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC"
+}
